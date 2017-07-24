@@ -1,0 +1,1 @@
+(define-package "ruby-end" "20141215.423" "Automatic insertion of end blocks for Ruby" 'nil :commit "ea453f5ac6259f09667fa26b865b6afacd06aa97" :url "http://github.com/rejeep/ruby-end" :keywords '("speed" "convenience" "ruby"))
